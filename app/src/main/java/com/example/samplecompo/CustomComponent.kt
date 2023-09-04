@@ -110,8 +110,6 @@ fun customComponent(
             smallText = smallText,
             smallTextColor = smallTextColor,
             smallTextSize = smallTextSize,
-            indicatorStrokeCap = indicatorStrokeCap
-
         )
     }
 }
@@ -125,8 +123,8 @@ fun EmbeddedElements(
     smallText: String,
     smallTextColor: Color,
     smallTextSize: TextUnit,
-    indicatorStrokeCap: StrokeCap,
-) {
+
+    ) {
 
     Text(
         text = smallText,
