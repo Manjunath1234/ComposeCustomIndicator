@@ -109,8 +109,7 @@ fun customComponent(
             bigTextSuffix = bigTextSuffix,
             smallText = smallText,
             smallTextColor = smallTextColor,
-            smallTextSize = smallTextSize,
-        )
+            smallTextSize = smallTextSize)
     }
 }
 
